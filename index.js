@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-const path = require('path');
-
 require('yargs')
     .commandDir('lib/commands')
     .option('endpoint', {
@@ -36,8 +34,8 @@ require('yargs')
         alias: 'i',
         describe: 'Log info messages.',
         default: false
-    })    
+    })
     .demandCommand()
     .help()
     .wrap(150)
-    .argv
+    .argv;
