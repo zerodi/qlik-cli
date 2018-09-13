@@ -1,0 +1,12 @@
+{
+  "assignees": [],
+  "automerge": false,
+  "baseBranches": [
+    "master"
+  ],
+  "extends": [
+    "config:base"
+  ],
+  "schedule": "every weekend",
+  "timezone": "UTC"
+}

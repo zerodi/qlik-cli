@@ -60,5 +60,6 @@ typings/
 # Visual Studio 2017 configuration
 .vs
 
+.idea
 .vscode
 lib/.jshintrc
