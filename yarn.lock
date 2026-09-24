@@ -151,9 +151,9 @@ end-of-stream@^1.1.0:
     once "^1.4.0"
 
 enigma.js@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/enigma.js/-/enigma.js-2.4.0.tgz#e5263116e7168e27f11cfe326ac83ed738bb7cc4"
-  integrity sha512-aqHQ5NoLRP0t+D/cXaH8iD4VGOgVR7MC38hwfgw2Y0VRbIgeNy3LyChlPiBBYB/K3/MlcRqJKZPaitwcTcxozw==
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/enigma.js/-/enigma.js-2.15.0.tgz#e9f2e348d3e90fb47c940a708ea0e3981966800c"
+  integrity sha512-rzYFcosjFDTBSXRkIiicN2d6XYwYU/ieZIr5oRkervMzOy5djTVocZ4OCVZ3jK/Pjevv641HEbnYXHdBHLKUVg==
 
 escape-string-regexp@^1.0.5:
   version "1.0.5"
